@@ -67,7 +67,7 @@ function Curso4() {
                 </Accordion>
             </Container>
 
-            const Footer = () => (
+            
   <footer>
     <Container>
       <p>Desarrollado por Josué Andrés López Díaz - Carnet: XXXX</p>

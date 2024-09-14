@@ -125,7 +125,7 @@ function Index() {
                 </div>
             </Container>
 
-            const Footer = () = (
+            
   <footer>
     <Container>
       <p>Desarrollado por Josué Andrés López Díaz - Carnet: 9490 - 21 - 7374</p>
