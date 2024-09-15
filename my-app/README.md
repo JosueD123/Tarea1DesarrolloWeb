@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Proyecto de Cursos Finalizados
+
+Este es un sitio web informativo sobre los cursos finalizados en la carrera. Desarrollado utilizando React y Bootstrap.
+
+## Integrantes del Equipo
+
+- Josué Andrés López Díaz - Carnet: 9490 - 21 - 7374 
+
+## Enlace del Sitio Web
+
+[Visitar el sitio web](https://nombre-de-tu-sitio.netlify.app)
